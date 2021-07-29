@@ -9,7 +9,7 @@ return strtol(op1,NULL,16);
 
 else if(strncmp(op1,"R",1)==0)
 {
-   int j=atoi(op1+1);
+    int j=atoi(op1+1);
 return Reg[j];
 }
 }
