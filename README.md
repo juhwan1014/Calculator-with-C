@@ -1,6 +1,6 @@
 # Calculator-with-C
 
-A calculator using C language 
+This is a calculator program using C language 
 
 This project records the process of creating a calculator for simple computational calculations in Linux environments and its results.
 
